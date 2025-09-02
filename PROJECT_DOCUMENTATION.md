@@ -84,11 +84,41 @@ Some of the ideas I had on the Impact/Effort map would be too ambitious, as well
 | YouTube   | - Free access to diverse content <br> - Empowers creators to build communities <br> - Educational and DIY content widely available | - Misinformation can spread easily <br> - Ad-driven model may prioritise clickbait <br> - Content moderation challenges | - Shapes public opinion and learning styles <br> - Influences youth culture and media consumption <br> - Democratises content creation and knowledge sharing |
 
 ---
-### <ins> **Secondary Research** <ins>
+### <ins> **Primary Research** <ins>
+| Fast Food/Takeaway per Month | Cost per Meal                          | Would Take Healthy Option? | Do you Know How to Cook? |
+|-----------------------------|-----------------------------------------|-----------------------------|------------------|
+| 5                           | My parents usually pay. $10–$15         | Maybe                       | 6                |
+| 5                           | Per meal around $4                      | Yes                         | 7                |
+| 10+                          | $15                                     | Yes                         | 5                |
+| 10+                          | $20–$30                                  | Maybe                       | 1                |
+| 4                           | 16 dolla                                | No                          | 3                |
+| 2                           | $3                                      | Maybe                       | 1                |
+| 3                           | For the whole family $50-ish            | Yes                         | 6                |
+| 3                           | $1–$50                                   | Yes                         | 1                |
+| 10+                          | 67 doll hairs                           | No                          | 1                |
+| 5                           | 14.5 c                                  | Maybe                       | 1                |
+| 4                           | Around $80                              | Yes                         | 1                |
+| 9                           | $10                                     | Yes                         | 7                |
+| 5                           | $10–$15                                  | Maybe                       | 4                |
+| 3                           | Approx $15 for myself                   | Yes                         | 5                |
 
+#### **Evaluation Of Data**
+The survey results show that fast food and takeaway are a regular part of many people's lives, with most respondents eating it between three and ten times a month. Spending habits vary widely, from as little as $3 to over $80 per meal, especially when buying for the whole family. This suggests that while fast food is often seen as affordable, it can add up quickly depending on the situation. Cooking skills also varied, with several respondents rating themselves low in confidence or ability. This highlights a potential barrier to healthy eating, as many people may want to cook but feel unsure about how to start.
+
+Importantly, most participants said they would consider switching to a healthy and cheap option if it were available. Only two respondents said “no,” while the rest responded with “yes” or “maybe.” This shows a strong interest in alternatives to fast food, especially if those options are easy to make and budget-friendly. The qualitative feedback suggests that convenience and cost are key factors in food choices, and that people are open to change if the new option fits their lifestyle.
+
+#### **Impact on Project**
+These findings strongly support the direction of the recipe website, which aims to share healthy and affordable meals every day. The data shows that the target audience is already spending money on quick meals, and many are open to healthier alternatives. By offering recipes that are simple, cheap and fast to prepare, the site can meet the needs of people who want better options but may lack cooking skills or time.
+
+To make the platform even more effective, it could include features like cost per serve and cooking time. This would help users feel more confident in the kitchen and show that healthy eating does not have to be expensive or complicated. Recipes tailored for families and younger users may also be beneficial, since they are the most frequent consumers of fast food.
 
 ---
 ### <ins> **Secondary Research** <ins>
+Recent research shows that fast food is a major part of many Australians’ diets. Roy Morgan reports that over 15.9 million Australians aged 14 and over (about 75 percent of the population) ate takeaway food from fast food outlets like McDonald’s, KFC and Hungry Jack’s in an average four-week period. Nearly one in five Australians eat fast food ten or more times in that same time frame. Millennials are the biggest customers, with over 2.5 million visiting McDonald’s alone. The Cancer Council says that the average fast food meal provides around 47 percent of an adult’s daily energy needs. Australian households spend about 28 percent of their food budget on fast food and eating out.
 
+This has serious health impacts. The Australian Bureau of Statistics found that two-thirds of adults and nearly one-quarter of children are overweight or obese. Poor diet and lack of physical activity are major causes, and fast food is often high in sugar, salt and saturated fat. Regular consumption can lead to obesity, type 2 diabetes, heart disease and even some types of cancer. In fact, high body mass was responsible for 7 percent of all disease and injury burden in Australia in 2017.
+
+These stats show there is a real need for better food options. People clearly want quick meals, but they often choose fast food because it is easy and affordable. This site could offer recipes that are just as fast, but much healthier and cheaper. To make it even more useful, it could include things like cooking time, cost per serve and nutrition info. This project could help shift habits and make healthy eating the new normal.
 
 ---
+### <ins> **UI/UX Design** <ins>
