@@ -122,3 +122,9 @@ These stats show there is a real need for better food options. People clearly wa
 
 ---
 ### <ins> **UI/UX Design** <ins>
+#### **Website Flow**
+![alt text](Theory/Website-flow.png)
+
+[link to figma](https://www.figma.com/design/5YlNSW46Ws9hMMj0UIztTd/Untitled?node-id=0-1&t=t4z0hLRrkErhZEmQ-1)
+
+I think that this design for the website will make it intuitive and easy to navigate, allowing for 
