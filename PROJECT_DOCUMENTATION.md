@@ -121,10 +121,15 @@ This has serious health impacts. The Australian Bureau of Statistics found that 
 These stats show there is a real need for better food options. People clearly want quick meals, but they often choose fast food because it is easy and affordable. This site could offer recipes that are just as fast, but much healthier and cheaper. To make it even more useful, it could include things like cooking time, cost per serve and nutrition info. This project could help shift habits and make healthy eating the new normal.
 
 ---
-### <ins> **UI/UX Design** <ins>
+### <ins> **UI/UX Design And Prototype** <ins>
 #### **Website Flow**
 ![alt text](Theory/Website-flow.png)
 
-[link to figma](https://www.figma.com/design/5YlNSW46Ws9hMMj0UIztTd/Untitled?node-id=0-1&t=t4z0hLRrkErhZEmQ-1)
+[link to figma](https://www.figma.com/design/5YlNSW46Ws9hMMj0UIztTd/Untitled?node-id=0-1&t=u8Dp7FXwky3MBxUR-1)
 
-I think that this design for the website will make it intuitive and easy to navigate, allowing for 
+I think that this design for the website will make it intuitive and easy to navigate, as well as suiting the need of my website nicely. Obviously you would need a picture of the meal so that the users can see what they're end product should/could look like. Using photos also draws their attention as no one is reading the recipe to decide if they want to eat that or not.
+
+---
+---
+## <ins> **Producing and Implementing** <ins>
+---
