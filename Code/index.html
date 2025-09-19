@@ -7,30 +7,32 @@
 </head>
 <body>
   <header>
-    <div class="branding">
-      <img src="images/logo.png" alt="Logo" class="logo" />
-      <h1>HLTHYKTCHN</h1>
+    <div class="header-container">
+      <a href="index.html" class="branding">
+        <img src="images/logo.png" alt="Logo" class="logo" />
+        <h1 class="site-title">HLTHYKITCHN</h1>
+      </a>
+      <nav class="nav-wrapper">
+        <ul>
+          <li><a href="popular.html">Popular Meals</a></li>
+          <li><a href="upcoming.html">Upcoming Meals</a></li>
+        </ul>
+      </nav>
     </div>
-    <nav>
-      <ul>
-        <li><a href="index.html">Recipe of the Day</a></li>
-        <li><a href="recipe.html">Recipe Page</a></li>
-        <li><a href="popular.html">Popular Meals</a></li>
-        <li><a href="upcoming.html">Upcoming Meals</a></li>
-      </ul>
-    </nav>
   </header>
 
   <main>
     <section class="recipe-day">
       <h2>Recipe of the Day</h2>
-      <a href="recipe.html">
-        <img src="daily-recipe.jpg" alt="Daily Recipe" />
+      <a href="recipe.html" class="recipe-container">
+        <div class="image-wrapper">
+          <img src="images/recipe 2.webp" alt="Daily Recipe Photo" class="recipe-photo" />
+        </div>
         <div class="meal-info">
-          <h3>NAME OF MEAL</h3>
-          <p>Cooking Time: _______</p>
-          <p>Cost: _______</p>
-          <p>Servings: _______</p>
+          <h3>Creamy Pesto Chicken Pasta</h3>
+          <p>Cooking Time: 20 min</p>
+          <p>Cost: $18</p>
+          <p>Servings: 4</p>
         </div>
       </a>
     </section>
