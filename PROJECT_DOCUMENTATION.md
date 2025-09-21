@@ -59,7 +59,7 @@ Some of the ideas I had on the Impact/Effort map would be too ambitious, as well
 ### <ins> **Non-Functional** <ins>
 #### **Performance**
 - The app should load recipes and images quickly (under 2 seconds).
-- Backend systems must optimize data retrieval to minimize delays.
+- Backend systems must optimise data retrieval to minimise delays.
 - The app should run smoothly across mobile and web platforms.
 
 #### **Reliability**
@@ -80,7 +80,7 @@ Some of the ideas I had on the Impact/Effort map would be too ambitious, as well
 | NAME      | PLUS                                                                                                   | MINUS                                                                                                  | IMPLICATIONS                                                                                          |
 |---|---|---|---|
 | Instagram | - High engagement through visual content <br> - Powerful tool for brand marketing and personal branding <br> - Enables community movements and social awareness | - Can promote unrealistic beauty standards <br> - Algorithm may prioritise sensitive or misleading content <br> - Privacy concerns and data usage issues | - Influences fashion, fitness, and lifestyle choices globally <br> - Drives consumer behavior and purchasing decisions <br> - Shapes political discourse and activism |
-| Amazon    | - Personalised shopping experience <br> - User reviews guide purchasing decisions <br> - Efficient logistics and global reach | - Can contribute to overconsumption <br> - Small businesses may struggle to compete <br> - Ethical concerns over labor practices | - Alters retail landscapes and shopping habits <br> - Centralizes consumer trust and purchasing power <br> - Influences global supply chains and product visibility |
+| Amazon    | - Personalised shopping experience <br> - User reviews guide purchasing decisions <br> - Efficient logistics and global reach | - Can contribute to overconsumption <br> - Small businesses may struggle to compete <br> - Ethical concerns over labor practices | - Alters retail landscapes and shopping habits <br> - Centralises consumer trust and purchasing power <br> - Influences global supply chains and product visibility |
 | YouTube   | - Free access to diverse content <br> - Empowers creators to build communities <br> - Educational and DIY content widely available | - Misinformation can spread easily <br> - Ad-driven model may prioritise clickbait <br> - Content moderation challenges | - Shapes public opinion and learning styles <br> - Influences youth culture and media consumption <br> - Democratises content creation and knowledge sharing |
 
 ---
@@ -103,12 +103,12 @@ Some of the ideas I had on the Impact/Effort map would be too ambitious, as well
 | 3                           | Approx $15 for myself                   | Yes                         | 5                |
 
 #### **Evaluation Of Data**
-The survey results show that fast food and takeaway are a regular part of many people's lives, with most respondents eating it between three and ten times a month. Spending habits vary widely, from as little as $3 to over $80 per meal, especially when buying for the whole family. This suggests that while fast food is often seen as affordable, it can add up quickly depending on the situation. Cooking skills also varied, with several respondents rating themselves low in confidence or ability. This highlights a potential barrier to healthy eating, as many people may want to cook but feel unsure about how to start.
+The survey results show that fast food and takeaway are a regular part of many people's lives, with most respondents eating it between three and ten times a month. Spending habits vary widely, from as little as $3 (I have no idea where they're going to get this) to over $80 per meal, especially when buying for the whole family. This suggests that while fast food is often seen as affordable, it can add up quickly depending on the situation. Cooking skills also varied, with several respondents rating themselves low in confidence or ability. This highlights a potential barrier to healthy and cheap eating, as many people may want to cook but feel unsure about how to do so.
 
 Importantly, most participants said they would consider switching to a healthy and cheap option if it were available. Only two respondents said “no,” while the rest responded with “yes” or “maybe.” This shows a strong interest in alternatives to fast food, especially if those options are easy to make and budget-friendly. The qualitative feedback suggests that convenience and cost are key factors in food choices, and that people are open to change if the new option fits their lifestyle.
 
 #### **Impact on Project**
-These findings strongly support the direction of the recipe website, which aims to share healthy and affordable meals every day. The data shows that the target audience is already spending money on quick meals, and many are open to healthier alternatives. By offering recipes that are simple, cheap and fast to prepare, the site can meet the needs of people who want better options but may lack cooking skills or time.
+These findings strongly support the direction of the website, which aims to share healthy and affordable meals every day. The data shows that the target audience is already spending money on quick meals, and many are open to healthier alternatives. By offering recipes that are simple, cheap and fast to prepare, the site can meet the needs of people who want better options but may lack cooking skills or time.
 
 To make the platform even more effective, it could include features like cost per serve and cooking time. This would help users feel more confident in the kitchen and show that healthy eating does not have to be expensive or complicated. Recipes tailored for families and younger users may also be beneficial, since they are the most frequent consumers of fast food.
 
@@ -120,6 +120,8 @@ This has serious health impacts. The Australian Bureau of Statistics found that 
 
 These stats show there is a real need for better food options. People clearly want quick meals, but they often choose fast food because it is easy and affordable. This site could offer recipes that are just as fast, but much healthier and cheaper. To make it even more useful, it could include things like cooking time, cost per serve and nutrition info. This project could help shift habits and make healthy eating the new normal.
 
+
+
 ---
 ### <ins> **UI/UX Design And Prototype** <ins>
 #### **Website Flow**
@@ -127,9 +129,20 @@ These stats show there is a real need for better food options. People clearly wa
 
 [link to figma](https://www.figma.com/design/5YlNSW46Ws9hMMj0UIztTd/Untitled?node-id=0-1&t=u8Dp7FXwky3MBxUR-1)
 
-I think that this design for the website will make it intuitive and easy to navigate, as well as suiting the need of my website nicely. Obviously you would need a picture of the meal so that the users can see what they're end product should/could look like. Using photos also draws their attention as no one is reading the recipe to decide if they want to eat that or not.
+I think that this design for the website will make it intuitive and easy to navigate, as well as suiting the needs of my website nicely. Obviously you would need a picture of the meal so that the users can see what they're end product should/could look like. Using photos also draws their attention as no one is reading the recipe to decide if they want to eat that or not. Therefore the design of this website will revolve mainly around these images attempting to hook a user's interests.
 
 ---
 ---
-## <ins> **Producing and Implementing** <ins>
+## <ins> **Testing and Evaluation** <ins>
 ---
+### <ins> **Peer Evaluation** <ins>
+Zach (friend outside school)
+The design overall is consistent but there are areas that could be improved such as flexibility of the layout when resizing the window. The images are also a bit inconsitent in size and that could make it look better. I have no clue what is going on if we're tlaking about the code. This webapp could be expanded upon with even more recipes and maybe a search feature or a filter if you're trying to find something to eat. Other than that the site is easy to navigate although a back button wouldn't do any harm.
+
+---
+### <ins> **Evaluation of Issues** <ins>
+The website demonstrates social responsibility by making healthy recipes accessible and easy to understand fora wide audience. Ethnically, it is important to ensure all information is accurate and inclusive of people with different dietary needs. Legally, I need to respect copyright for images and content (uhm), and also if it will need any user information in the future, protect any user data in compliance with privacy laws. 
+
+---
+### <ins> **Project Evaluation** <ins>
+I am proud of how the final product meets the requirements set out at the beginning of the project. All core features, such as recipe browsing, clear navigation, and visually appealing layouts, have been implemented as planned. Throughout the process, I paid close attention to user feedback and made adjustments to ensure the site is both functional and easy to use. The recipes are accurate, accessible, and tailored to the needs of the target audience, fulfilling the original goals.
