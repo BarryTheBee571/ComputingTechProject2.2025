@@ -228,3 +228,6 @@ Once all the chicken has been breaded, heat the oil in a skillet to 350°F-375°
 
 Fry the chicken undisturbed for 3-4 minutes, until golden brown. Using tongs, gently flip and continue cooking for 2-3 minutes, until the internal temperature reaches 165°F.
 Once the chicken is done, place it on paper towels to drain. Make sure to maintain the oil temperature at 350°F and continue frying until all the pieces are done cooking. Serve with a squeeze of fresh lemon and enjoy.
+
+
+ALL RECIPES FROM https://www.budgetbytes.com/
